@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/slager/testpkg/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/slager/testpkg/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/slager/testpkg/branch/master/graph/badge.svg)](https://app.codecov.io/gh/slager/testpkg?branch=master)
 <!-- badges: end -->
 
 The goal of testpkg is to ...
